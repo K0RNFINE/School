@@ -15,7 +15,7 @@
     transform: translateY(-50%);
     text-align: center;
     color: #fff;
-    text-shadow: 0 0 6px
+    text-shadow: 0 0 6px #fff
                  0 0 8px;
 }
 .content2{
