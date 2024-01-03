@@ -15,6 +15,7 @@
     transform: translateY(-50%);
     text-align: center;
     color: #fff;
+    text-shadow: 0 0 5px;
 }
 .content2{
     font-size: 50px;
