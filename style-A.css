@@ -30,7 +30,7 @@
     background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url();
     background-size: cover;
     background-position: center;
-    left: 550px;
+    left: 30%;
     bottom: 0px;
     z-index: 0;
     border: #fff;
