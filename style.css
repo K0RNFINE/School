@@ -45,7 +45,6 @@ button{
     cursor: pointer;
     position: relative;
     overflow: hidden;
-    font-size: 20;
   }
 span{
     background: rgb(0, 204, 255);
