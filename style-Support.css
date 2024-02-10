@@ -24,7 +24,7 @@
 }
 .Suportborder{
     position: absolute;
-    width: 40%;
+    width: 40% auto;
     height: 100vh;
     background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url(Saint-suport.jpg);
     background-size: cover;
