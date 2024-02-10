@@ -132,8 +132,8 @@ span{
     border-radius: 25px;
     font-weight: bold;
     border: 2px solid #fff;
-   
-    color: #fff;
+    border-color: black;
+    color: gray;
     cursor: pointer;
     position: relative;
     overflow: hidden;
