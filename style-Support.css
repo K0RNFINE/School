@@ -125,6 +125,6 @@ span{
     left: 42%;
   }
  .form input{
-     border-radius: 25px;
-     box-shadow: 5px 5px 10px white;
+     border-radius: 5px;
+     box-shadow: 0 0 10px white;
  }​
